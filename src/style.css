@@ -40,6 +40,15 @@ strong {
   top: -40px;
 }
 
+.active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.active:hover {
+  text-decoration: none; 
+}
+
 #description {
   text-transform: capitalize;
 }
