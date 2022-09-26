@@ -31,6 +31,7 @@ strong {
   border: 1px solid #c3c6ca;
   border-radius: 10px;
   text-align: center;
+  background: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
 }
 
 .units {
@@ -60,7 +61,7 @@ strong {
 
 .weather-forecast-date {
   font-size: 16px;
-  color: #979595;
+  color: #7e7c7c;
 }
 
 .weather-forecast-temperatures {
@@ -68,5 +69,10 @@ strong {
 }
 
 .weather-forecast-temperature-min {
-  color: #979595;
+  color: #7e7c7c;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
 }
